@@ -7,8 +7,8 @@
         "artId": 6,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/40665ec7-5abe-4959-acab-614ad9ecb6ed",
         "favorited": false,
-        "audio": "../music/sero-Cute.mp3",
-        "dur": "1:37",
+        "audio": "../music/DNA.mp3",
+        "dur": "1:32",
         "bgColor": "#B75564"
     },
     {
@@ -19,8 +19,8 @@
         "artId": 11,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/849c7d13-d2bb-4ccc-b8c3-581e0018369a",
         "favorited": true,
-        "audio": "../music/ZISO-Tteokbokki.mp3",
-        "dur": "2:06",
+        "audio": "../music/밤양갱.mp3",
+        "dur": "1:29",
         "bgColor": "#590212"
     },
     {
@@ -31,8 +31,8 @@
         "artId": 2,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/6a036c61-1c68-414d-aa4f-0cd83a3b16f3",
         "favorited": true,
-        "audio": "../music/FASSounds-Sunshine.mp3",
-        "dur": "2:00",
+        "audio": "../music/Chocolate.mp3",
+        "dur": "1:31",
         "bgColor": "#00010D"
     },
     {
@@ -43,8 +43,8 @@
         "artId": 7,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/3cc97160-d0b4-41a6-a65e-3b96cc5cd370",
         "favorited": true,
-        "audio": "../music/abstract-fashion.mp3",
-        "dur": "1:32",
+        "audio": "../music/날그만잊어요.mp3",
+        "dur": "1:33",
         "bgColor": "#152126"
     },
     {
@@ -55,8 +55,8 @@
         "artId": 19,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/dd8f748f-68f3-4f1c-be9d-8a17e7996dd7",
         "favorited": true,
-        "audio": "../music/easy-lifestyle.mp3",
-        "dur": "2:45",
+        "audio": "../music/RhapsodyofSadness.mp3",
+        "dur": "1:30",
         "bgColor": "#42638C"
     },
     {
@@ -67,20 +67,20 @@
         "artId": 12,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/d99ed11c-fbe0-4fd2-85c7-805d9cb90f2d",
         "favorited": true,
-        "audio": "../music/embrace.mp3",
-        "dur": "2:59",
+        "audio": "../music/PerfectNight.mp3",
+        "dur": "1:30",
         "bgColor": "#15152D"
     },
     {
         "playId": 6,
-        "title": "Super Lady",
+        "title": "나는 아픈 건 딱 질색이니까",
         "artist": "(여자)아이들",
         "artistImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/72a6e892-19b4-463d-938b-901675a4a955",
         "artId": 13,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/1016266c-100f-48a8-b177-1ca29f34d9be",
         "favorited": false,
-        "audio": "../music/inside-you.mp3",
-        "dur": "2:09",
+        "audio": "../music/나는아픈건딱질색이니까.mp3",
+        "dur": "1:30",
         "bgColor": "#00010D"
     },
     {
@@ -91,8 +91,8 @@
         "artId": 0,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/a6c9bfd8-0790-44ca-bd4f-53f9bdf3e288",
         "favorited": false,
-        "audio": "../music/just-relax.mp3",
-        "dur": "2:40",
+        "audio": "../music/Drama.mp3",
+        "dur": "1:29",
         "bgColor": "#590202"
     },
     {
@@ -103,8 +103,8 @@
         "artId": 5,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/fcce26c1-7bce-4448-a745-114eb90e90fb",
         "favorited": false,
-        "audio": "../music/leva-eternity.mp3",
-        "dur": "2:24",
+        "audio": "../music/IAM.mp3",
+        "dur": "1:30",
         "bgColor": "#535353"
     },
     {
@@ -115,8 +115,8 @@
         "artId": 1,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/d81334f7-929c-4387-adf1-2a3a8d3de2c3",
         "favorited": true,
-        "audio": "../music/lofi-chill.mp3",
-        "dur": "1:42",
+        "audio": "../music/Lovewinsall.mp3",
+        "dur": "1:30",
         "bgColor": "#8C2020"
     },
     {
@@ -127,8 +127,8 @@
         "artId": 10,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/d17e894b-70be-4585-beca-eb1372c7152c",
         "favorited": false,
-        "audio": "../music/lofi-chill-medium.mp3",
-        "dur": "1:07",
+        "audio": "../music/Lovelee.mp3",
+        "dur": "1:14",
         "bgColor": "#163E73"
     },
     {
@@ -139,8 +139,8 @@
         "artId": 5,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/2fb89efc-aee7-40ce-ab19-09970a570d5e",
         "favorited": false,
-        "audio": "../music/loneliness-of-the-winner.mp3",
-        "dur": "2:12",
+        "audio": "../music/Baddie.mp3",
+        "dur": "1:26",
         "bgColor": "#F21B54"
     },
     {
@@ -151,8 +151,8 @@
         "artId": 4,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/1d30fdbb-11f7-4cc7-9095-c59d567d5e94",
         "favorited": false,
-        "audio": "../music/my-universe.mp3",
-        "dur": "2:27",
+        "audio": "../music/사막에서꽃을피우듯.mp3",
+        "dur": "1:30",
         "bgColor": "#125780"
     },
     {
@@ -163,8 +163,8 @@
         "artId": 18,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/2ba3a879-378c-4800-b671-0c43d1351e7f",
         "favorited": false,
-        "audio": "../music/sedative.mp3",
-        "dur": "3:01",
+        "audio": "../music/EchoesofLovesJourney.mp3",
+        "dur": "1:35",
         "bgColor": "#808080'"
     },
     {
@@ -175,8 +175,8 @@
         "artId": 15,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/c2060cdf-b5af-4799-98b0-21d0b39d7940",
         "favorited": false,
-        "audio": "../music/smoke.mp3",
-        "dur": "1:58",
+        "audio": "../music/TOUCHINMOVIN.mp3",
+        "dur": "1:32",
         "bgColor": "#A0504F"
     },
     {
@@ -187,8 +187,8 @@
         "artId": 16,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/f53fb7ed-5f97-4a86-a5ef-d26ee9d591b4",
         "favorited": false,
-        "audio": "../music/sneaky-feet.mp3",
-        "dur": "1:49",
+        "audio": "../music/Halo.mp3",
+        "dur": "1:27",
         "bgColor": "#27262B"
     },
     {
@@ -199,8 +199,8 @@
         "artId": 17,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/f8c7d781-aaec-4f16-9970-4623614ba798",
         "favorited": false,
-        "audio": "../music/summel-travel.mp3",
-        "dur": "2:13",
+        "audio": "../music/내소원이뭐냐면.mp3",
+        "dur": "1:30",
         "bgColor": "#73564E"
     },
     {
@@ -211,8 +211,8 @@
         "artId": 14,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/2019a255-724d-4eee-9d60-e85e890602ee",
         "favorited": false,
-        "audio": "../music/the-cradle-of-your-soul.mp3",
-        "dur": "2:57",
+        "audio": "../music/TrueLove.mp3",
+        "dur": "1:30",
         "bgColor": "#191919"
     },
     {
@@ -223,8 +223,8 @@
         "artId": 8,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/c3836435-09f0-486b-9f7e-acd2045f5b5a",
         "favorited": false,
-        "audio": "../music/upbeat-quirky.mp3",
-        "dur": "1:20",
+        "audio": "../music/IGOTYOU.mp3",
+        "dur": "1:30",
         "bgColor": "#F1863E"
     },
     {
@@ -235,8 +235,8 @@
         "artId": 9,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/3ce94abf-43c4-4320-a26f-0e8a9dbb338b",
         "favorited": false,
-        "audio": "../music/watr-double-overhead.mp3",
-        "dur": "3:30",
+        "audio": "../music/OneDay.mp3",
+        "dur": "1:30",
         "bgColor": "#261D1D"
     },
     {
@@ -247,8 +247,8 @@
         "artId": 3,
         "songImg": "https://github.com/simjsik/Hackbo_portfolio/assets/39624384/07333506-2770-4461-ac90-7aeb836e5106",
         "favorited": false,
-        "audio": "../music/my-life-main.mp3",
-        "dur": "1:58",
+        "audio": "../music/안아름답고도안아프구나.mp3",
+        "dur": "1:38",
         "bgColor": "#261712"
     }
 ]
